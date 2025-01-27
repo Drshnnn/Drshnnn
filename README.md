@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on AITutorials.<br>👯 I’m looking to collaborate on Development and Open Source Projects.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning various technologies related to developing applications.<br>💬 Ask me about anything.<br>⚡ Fun fact I play chess.
+![Header Tweet](./header_tweet.png)
+
+## 📊 Weekly Progress Tracker
+
+- [x] Week 1: 01/01/25 - 07/01/25 => ExamTime | 📄[Repo](https://github.com/ayush-that/Exam-Time) | 📄[Live](https://examtime.vercel.app/)
+- [x] Week 2: 01/01/25 - 14/01/25 => MediConnect | 📄[Repo](https://github.com/ayush-that/Nosu-AI-Hackathon) | 📄[Live](https://mediconnect-rho.vercel.app/)
+- [x] Week 3: 15/01/25 - 21/01/25 => Ultimate Web Scraper | 📄[Repo](https://github.com/ayush-that/scraper-collection)
+- [ ] Week 4: 22/01/25 - 28/01/25 => Thinking...🌨️
+
 
 
 ## 🌐 Socials:
