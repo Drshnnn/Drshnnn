@@ -3,9 +3,15 @@
 ## 📊 Weekly Progress Tracker
 
 - [x] Week 1: 01/01/25 - 07/01/25 => BugBuster | 📄[Repo](https://github.com/Darshannaikk/BugBuster) | 📄[Live](https://examtime.vercel.app/)
-- [x] Week 2: 01/01/25 - 14/01/25 => Case Closed : Chronicles | 📄[Repo]() | 📄[Live]()
+- [x] Week 2: 08/01/25 - 14/01/25 => Case Closed : Chronicles | 📄[Repo]() | 📄[Live]()
 - [x] Week 3: 15/01/25 - 21/01/25 => Ultimate Web Scraper | 📄[Repo]()
-- [ ] Week 4: 22/01/25 - 28/01/25 => Thinking...🌨️
+- [ ] Week 4: 22/01/25 - 28/01/25 => 
+- [ ] Week 5: 01/02/25 - 07/01/25 => 
+- [ ] Week 6: 08/02/25 - 14/01/25 => 
+- [ ] Week 7: 15/02/25 - 21/01/25 => 
+- [ ] Week 8: 22/02/25 - 28/01/25 => 
+- [ ] Week 9: 01/03/25 - 07/01/25 =>
+- [ ] Week 10: 08/03/25 - 14/01/25 =>
 
 
 
