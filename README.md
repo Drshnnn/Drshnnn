@@ -29,7 +29,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
@@ -44,7 +43,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=babel" width="55" height="55" /><br>Babel</td>
-       <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
@@ -61,7 +59,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=appwrite" width="55" height="55" /><br>AppWrite</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" /><br>Nginx</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify" width="55" height="55" /><br>Netlify</td>
   </tr>
   <tr>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm" width="55" height="55" /><br>NPM</td>
@@ -73,9 +70,9 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" /><br>PowerShell</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jest" width="55" height="55" /><br>Jest</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vitest" width="55" height="55" /><br>Vitest</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
   </tr>
   <tr>
+     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="55" height="55" /><br>Solidity</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" width="55" height="55" /><br>Rust</td>
