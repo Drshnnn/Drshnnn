@@ -21,12 +21,6 @@
 | 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)
 
 
-
-
-
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/darshannaik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/DarshanNaikk) 
-
 # 💻 Tech Stack:
 <table align="center">
   <tr>
