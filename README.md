@@ -1,5 +1,3 @@
-![Header Tweet](./header_tweet.png)
-
 ## 📊 Weekly Progress Tracker
 
 | Project Row I                        | Project Row II      |
