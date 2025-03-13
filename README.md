@@ -89,6 +89,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanNaikk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DarshanNaikk&icon=0&color=0)](https://visitcount.itsvg.in)
+##  Views  
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Darshannaikk">
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
