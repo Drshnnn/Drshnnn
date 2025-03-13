@@ -1,7 +1,6 @@
 ![Header Tweet](./header_tweet.png)
 
 ## 📊 Weekly Progress Tracker
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
