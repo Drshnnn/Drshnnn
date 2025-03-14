@@ -77,6 +77,8 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vim" width="55" height="55" /><br>Vim</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=neovim" width="55" height="55" /><br>NeoVim</td>
   </tr>
 </table>
 
