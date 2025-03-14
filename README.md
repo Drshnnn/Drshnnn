@@ -42,7 +42,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=babel" width="55" height="55" /><br>Babel</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=webpack" width="55" height="55" /><br>Webpack</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
@@ -76,6 +76,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" width="55" height="55" /><br>Rust</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
   </tr>
 </table>
 
