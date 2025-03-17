@@ -4,23 +4,33 @@
 
 ## 📊 Weekly Progress Tracker
 
-| Project Row I                        | Project Row II      |
-|------------------------------------|----------------------------------------|
-| 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
-| 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) | 
-| 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) | 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) | 
-| 🌐 MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) | 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/) | 
-| 🌐 Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) | 🌐 MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/) | 
-| 🌐 Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) | 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) |
-| 🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) | 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) | 
-| 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) | 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) | 
-| 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) | 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) |
-| 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) | 🌐 RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) | 
-| 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) | 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) | 
-| 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/) | 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/) | 
-| 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
-| 🌐 MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)
+| January 2025 | February 2025 | March 2025 |
+|-----------|-----------|-----------|
+| Week 1: BugBuster (Developer Tool)  | Week 1 | Week 1 |
+| Week 2: CaseClosed Chronicles | Week 2 | Week 2: |
+| Week 3: FreshToss | Week 3 | Week 3:  |
+| Week 4: ClearClutter | Week 4 | Coming Soon...  |
+
+| April 2025 | May 2025 | June 2025 |
+|-----------|-----------|-----------|
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon... | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+
+| July 2025 | August 2025 | September 2025 |
+|-----------|-----------|-----------|
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+
+| October 2025 | November 2025 | December 2025 |
+|-----------|-----------|-----------|
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Coming Soon...  | Coming Soon...  | Coming Soon... |
 
 
 # 💻 Tech Stack:
