@@ -7,7 +7,7 @@
 |-----------|-----------|-----------|
 | Week 1: BugBuster (Developer Tool)  | Week 1 | Week 1: CoderCompass |
 | Week 2: CaseClosed Chronicles | Week 2 | Week 2: |
-| Week 3: FreshToss | Week 3 | Week 3:  |
+| Week 3: FreshToss | Week 3 | Week 3: OmniWatch (Web 3)  |
 | Week 4: ClearClutter | Week 4 | Coming Soon...  |
 
 | April 2025 | May 2025 | June 2025 |
