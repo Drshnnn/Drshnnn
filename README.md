@@ -1,13 +1,8 @@
-<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="16" stroke-opacity="0.2"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="12" stroke-opacity="0.4"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="8" stroke-opacity="0.6"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="4" stroke-opacity="0.8"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="2" stroke-opacity="1"/>
-</svg>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Darshan Naik</b></h1>
 <h2 align="center"><b>Software Engineer and Open Source Contributor</b></h2> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Darshannaikk">
+</a>
 
 ## 📊 Weekly Progress Tracker
 
@@ -106,19 +101,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darshannaikk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-##  Views  
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Darshannaikk">
-</a>
-
-<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="16" stroke-opacity="0.2"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="12" stroke-opacity="0.4"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="8" stroke-opacity="0.6"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="4" stroke-opacity="0.8"/>
-  <rect x="0" y="0" width="100%" height="30" fill="none" stroke="limegreen" stroke-width="2" stroke-opacity="1"/>
-</svg>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
