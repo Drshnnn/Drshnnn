@@ -13,10 +13,10 @@
 
 | January 2025 | February 2025 | March 2025 |
 |-----------|-----------|-----------|
-| Week 1: BugBuster (Developer Tool)  | Week 1 | Week 1: CoderCompass (Developer Tool) |
+| Week 1: BugBuster (Developer Tool)  | Week 1: ClearClutter (Productivity Tool)| Week 1: CoderCompass (Developer Tool) |
 | Week 2: CaseClosed Chronicles (Mystery Game) | Week 2 | Week 2: |
 | Week 3: FreshToss (Startup) | Week 3 | Week 3: OmniWatch (Web 3)  |
-| Week 4: ClearClutter (Productivity Tool) | Week 4 | Coming Soon...  |
+| Week 4: ApiIntelligenceHub (Developer Tool) | Week 4 | Coming Soon...  |
 
 | April 2025 | May 2025 | June 2025 |
 |-----------|-----------|-----------|
