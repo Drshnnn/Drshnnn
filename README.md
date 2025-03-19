@@ -1,3 +1,9 @@
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="8" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="4" stroke-opacity="0.6"/>
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="2" stroke-opacity="1"/>
+</svg>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Darshan Naik</b></h1>
 <h2 align="center"><b>Software Engineer and Open Source Contributor</b></h2> 
 
@@ -104,5 +110,11 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Darshannaikk">
 </a>
+
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="8" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="4" stroke-opacity="0.6"/>
+  <rect x="0" y="0" width="100%" height="20" fill="none" stroke="limegreen" stroke-width="2" stroke-opacity="1"/>
+</svg>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
