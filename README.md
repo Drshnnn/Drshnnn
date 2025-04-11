@@ -15,7 +15,7 @@
 
 | April 2025 | May 2025 | June 2025 |
 |-----------|-----------|-----------|
-| Coming Soon...  | Coming Soon...  | Coming Soon...  |
+| Week 1: Validatr (Developer Tool) | Coming Soon...  | Coming Soon...  |
 | Coming Soon...  | Coming Soon...  | Coming Soon...  |
 | Coming Soon...  | Coming Soon... | Coming Soon...  |
 | Coming Soon...  | Coming Soon...  | Coming Soon...  |
